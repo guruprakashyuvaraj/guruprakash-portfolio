@@ -1,16 +1,34 @@
-# React + Vite
+# 🌐 Guruprakash Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Personal portfolio website showcasing my skills, projects, experience, and achievements in **Generative AI** and **software development**.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [guruprakashyuvaraj.github.io/guruprakash-portfolio](https://guruprakashyuvaraj.github.io/guruprakash-portfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛠️ Tech Stack
+- ⚛️ React
+- ⚡ Vite
+- 🎨 CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- Fully responsive design
+- Clean, modern UI
+- Skills & experience showcase
+- Project highlights
+- Contact section for collaboration
 
-## Expanding the Oxlint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Clone the repo and run it locally:
+
+```bash
+git clone https://github.com/guruprakashyuvaraj/guruprakash-portfolio.git
+cd guruprakash-portfolio
+npm install
+npm run dev
+```
+
+## 📬 Let's Connect
+- 💼 LinkedIn: [guruprakash-y](https://www.linkedin.com/in/guruprakash-y-1740b3258)
+- 📧 Email: guruprakashyuvaraj2003@gmail.com
