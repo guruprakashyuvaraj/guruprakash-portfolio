@@ -1,4 +1,4 @@
-import image from "../assets/Guru.jpeg"
+import image from "../assets/ai_pic.png"
 function About() {
   return (
     <section className="about section" id="about">
