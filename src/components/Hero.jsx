@@ -30,7 +30,7 @@ function Hero() {
 
             {/* Resume */}
             <a
-              href="/guruprakash-portfolio/Guru_GenAi_Resume-01.pdf"
+              href="/guruprakash-portfolio/Guruprakash.Y_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="resume-button"
